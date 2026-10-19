@@ -1,0 +1,10 @@
+# Core project dependencies for facial emotion detection
+ultralytics==8.4.182
+opencv-python==5.0.0.93
+numpy>=1.23.0,<2.5.0
+matplotlib>=3.3.0
+pillow>=7.1.2
+pyyaml>=5.3.1
+requests>=2.23.0
+torch>=1.8.0
+torchvision>=0.9.0
